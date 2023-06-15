@@ -7,9 +7,9 @@ Web Devloper and Designer
 I'm currently an undergraduate IT student at the University of Education in Winneba-Kumasi,(A public tertiary in Ghana) and I've been writing code for sometime now. My journey to become a designer started when I realized that I had a passion for creating things that were both functional and aesthetically pleasing. I was drawn to the world of design because it allowed me to express my creativity while also solving problems. I believe that my skills in coding and my creative eye will help me to become a successful designer and a developer. I believe that my skills and experience will allow me to contribute to the success of any organization I work with.
 
 * 🌍  I'm based in Kumasi,Ghana
-* 🖥️  See my portfolio at [Behance.me](http://www.behance.net/emmanuelkusi)
+* 🖥️  See my design portfolio at [Behance.me](http://www.behance.net/emmanuelkusi)
 * ✉️  You can contact me at [emmanuelkusi345@gmail.com](mailto:emmanuelkusi345@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm currently learning React.js
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I love football and Barcelona is my favourite team ( VISCA BARCA )
 
