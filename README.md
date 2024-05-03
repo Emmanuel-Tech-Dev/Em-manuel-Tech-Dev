@@ -4,7 +4,7 @@ Hi 👋 My name is Emmanuel Kusi
 Web Devloper and Designer
 -------------------------
 
-I'm currently an undergraduate IT student at the University of Education in Winneba-Kumasi,(A public tertiary in Ghana) and I've been writing code for sometime now. My journey to become a designer started when I realized that I had a passion for creating things that were both functional and aesthetically pleasing. I was drawn to the world of design because it allowed me to express my creativity while also solving problems. I believe that my skills in coding and my creative eye will help me to become a successful designer and a developer. I believe that my skills and experience will allow me to contribute to the success of any organization I work with.
+I am a product guy at heart. Nothing pleases me more than seeing my own product making users happy. I don't just look at the user as a customer. I look at them as people. I try to keep track of every user interaction that a customer has. How they are using my product, what they are doing and how I can provide them a better user experience. The product should be simple, scalable and a long term solution. User experience is something that changes over time. I do my best to keep up with the changing trends. I never rush into developing the product. I do a research, brainstorming, white boarding and planning before I begin the actual development phase. I take pride in my work. I love what I do and love it even more when my users love it.
 
 * 🌍  I'm based in Kumasi,Ghana
 * 🖥️  See my design portfolio at [Behance.me](http://www.behance.net/emmanuelkusi)
