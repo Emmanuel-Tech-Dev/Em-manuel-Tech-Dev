@@ -14,8 +14,10 @@ I am a product guy at heart. Nothing pleases me more than seeing my own product 
 * ⚡  I love football and Barcelona is my favourite team ( VISCA BARCA )
 
 <a href="https://www.twitter.com/_NuH_NiCe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_NuH_NiCe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/_Kobby_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+<a href="https://app.daily.dev/mr_emma"><img src="https://api.daily.dev/devcards/v2/qjibwVH4ciFIIy0THUG3o.png?type=default&r=v81" width="356" alt="Emmanuel Kusi's Dev Card"/></a>
 
 ### Skills
 
