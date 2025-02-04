@@ -1,17 +1,31 @@
 Hi 👋 My name is Emmanuel Kusi
 ==============================
 
-Web Devloper and Designer
+Software Developer | Full-Stack Developer 
 -------------------------
 
-I am a product guy at heart. Nothing pleases me more than seeing my own product making users happy. I don't just look at the user as a customer. I look at them as people. I try to keep track of every user interaction that a customer has. How they are using my product, what they are doing and how I can provide them a better user experience. The product should be simple, scalable and a long term solution. User experience is something that changes over time. I do my best to keep up with the changing trends. I never rush into developing the product. I do a research, brainstorming, white boarding and planning before I begin the actual development phase. I take pride in my work. I love what I do and love it even more when my users love it.
+I am a software developer passionate about building scalable, user-centric products. I specialize in React.js, Node.js, and full-stack development, focusing on creating robust applications with seamless user experiences. I take a product-first approach, ensuring that my solutions are not only functional but also intuitive and scalable.
+I am always learning and refining my craft—whether it's mastering state management with Zustand, exploring backend optimizations in Node.js, or designing interactive dashboards for real-world applications. My goal is to be among the top 20% of developers by continuously pushing my boundaries.
 
 * 🌍  I'm based in Kumasi,Ghana
 * 🖥️  See my design portfolio at [Behance.me](http://www.behance.net/emmanuelkusi)
-* ✉️  You can contact me at [emmanuelkusi345@gmail.com](mailto:emmanuelkusi345@gmail.com)
-* 🧠  I'm currently learning React.js
+* ✉️  You can contact me at [eks607067@gmail.com](mailto:eks607067@gmail.com)
+  
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I love football and Barcelona is my favourite team ( VISCA BARCA )
+
+### 🧠 Currently Learning:
+
+- Advanced React.js concepts (Resend Email, Zustand, Context API, useReducer).
+
+- Backend development with Node.js, Express, Sequelize, and MySQL.
+
+- Performance optimization and testing strategies.
+
+### ⚡ Fun Fact:
+
+- I love football, and Barcelona is my favorite team! Visca Barça! 🏆
+
+
 
 <a href="https://www.twitter.com/_NuH_NiCe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_Kobby_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
